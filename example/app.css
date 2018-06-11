@@ -1,0 +1,26 @@
+
+h1 { color: red; }
+
+#text {
+	font-family: Arial, sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	line-height: 1.3;
+	padding: 60px;
+	border: 1px solid black;
+}
+
+#text .red {
+	padding: 0 0.25em;
+	background-color: #fee;
+}
+
+#text .green {
+	padding: 0 0.25em;
+	background-color: #efe;
+}
+
+#text .blue {
+	padding: 0 0.25em;
+	background-color: #eef;
+}
